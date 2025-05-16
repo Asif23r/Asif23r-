@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://t.me/RaazXdev"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:mdrahulraaz123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mdasifraza801110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
